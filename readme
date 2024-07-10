@@ -1,0 +1,26 @@
+# WeatherDemo
+
+WeatherDemo is an Android application that reads and displays sensor data such as temperature, pressure, and light. This project demonstrates the use of Android sensors and Kotlin programming.
+
+## Features
+
+- Display ambient temperature
+- Display atmospheric pressure
+- Display light levels
+- Real-time updates
+
+
+## Installation
+
+To get a local copy up and running follow these simple steps:
+
+### Prerequisites
+
+- Android Studio
+- Git
+
+### Clone the Repository
+
+```sh
+git clone https://github.com/hassanshameel/WeatherDemo.git
+cd WeatherDemo
